@@ -1,5 +1,3 @@
-//Daniel Jabbour - Yhacks 2017
-
 var ToneAnalyzerV3 = require('watson-developer-cloud/tone-analyzer/v3');
 var bodyParser = require('body-parser');
 var path = require('path');
