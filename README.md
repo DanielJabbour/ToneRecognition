@@ -8,4 +8,6 @@ A simple web application that utilizes IBM's tonal analysis API to uncover the s
 
 To use this application, you need to obtain IBM Bluemix credentials to have access to IBM's API, which can be obtained from https://www.ibm.com/watson/developer/.
 
-Additionally, you need to have NodeJS installed -> https://nodejs.org. 
+Additionally, you need to have NodeJS installed -> https://nodejs.org.
+
+Once installed, use the terminal to navigate over to the project directory and use npm start.
