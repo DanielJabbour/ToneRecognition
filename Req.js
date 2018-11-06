@@ -7,9 +7,9 @@ var server = express();
 
 //API authentication
 var tone_analyzer = new ToneAnalyzerV3({
-  username: 'YourUsername',
-  password: 'YourPassword',
-  version_date: 'Version'
+  username: '24bef091-32ec-4cb9-b038-8dd95fd06906',
+  password: '4J3h6SH3kCqj',
+  version_date: '2016-05-19'
 });
 
 server.listen(process.env.PORT || 3000, function () {
